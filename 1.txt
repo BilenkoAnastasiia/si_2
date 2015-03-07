@@ -1,4 +1,15 @@
 Hello,
 I`m Nastia
 Glad to work with you
+<<<<<<< HEAD
 fkhgdkfnlfbgdjvhdfbgjf
+=======
+
+I`m glad too
+<<<<<<< HEAD
+
+Exo xo xo 8 march
+=======
+I`m faster
+>>>>>>> origin/master
+>>>>>>> origin/master
