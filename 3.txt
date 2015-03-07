@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Julia
 si7
+=======
+<<<<<<< HEAD
+Merge
+=======
+Julia
+>>>>>>> origin/master
+>>>>>>> origin/master
